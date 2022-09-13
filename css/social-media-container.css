@@ -1,0 +1,8 @@
+.social-media-container{
+    display: flex;
+    flex-direction: column;
+    align-self: end;
+    gap: 20px;
+    color: #ffffff;
+    place-items: center;
+}
