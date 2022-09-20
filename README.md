@@ -17,4 +17,4 @@ O objeto deste projeto é colocar em pratica os conheimentos, sobre desenvolvime
 
 ---
 ## Autor
-- [Nicole Souza](https://github.com/nicanico)
+- [Nicole Souza Santos](https://github.com/nicanico)
