@@ -6,7 +6,7 @@
 ---
 ## Sobre 
 Site do tipo landing page para divulgar o headphone purple Razer Kraken BT.
-O objeto deste projeto é colocar em pratica os conheimentos, sobre desenvolvimento de sites, adquiridos no curso do [SENAI Jandira](https://jandira.sp.senai.br/).
+O objeto deste projeto é colocar em pratica os conhecimentos, sobre desenvolvimento de sites, adquiridos no curso do [SENAI Jandira](https://jandira.sp.senai.br/).
 
 ---
 ## Tecnologias utilizadas
